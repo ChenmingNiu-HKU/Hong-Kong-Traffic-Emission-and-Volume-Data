@@ -144,12 +144,3 @@ If you use this dataset, please cite both the **dataset** and the **related publ
 ---
 
 ## **Repository Structure**
-
-```text
-.
-├── README.md
-├── metadata/
-├── data_dictionary/
-├── example_code/
-├── figures/
-└── citation/
