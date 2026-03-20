@@ -142,5 +142,3 @@ If you use this dataset, please cite both the **dataset** and the **related publ
 **https://zenodo.org/records/19127840**
 
 ---
-
-## **Repository Structure**
