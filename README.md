@@ -9,6 +9,21 @@ Because the full dataset is too large to host directly on GitHub, this repositor
 
 ---
 
+## **Access to the Full Dataset**
+
+Because the full data files are too large to store on GitHub, the complete dataset is hosted externally on Zenodo.
+
+### **Dataset Access Link**
+**https://zenodo.org/records/19127840**
+
+### **Related Publication**
+**Niu, C., Chen, Q., Wang, A., & Xu, J. (2026). _Disentangling Near-Road Emission Inequities in Hong Kong through Data-Driven Spatiotemporal Traffic Dynamics_. Environmental Science & Technology. https://doi.org/10.1021/acs.est.5c14619**
+
+### **Paper Access Link**
+**https://doi.org/10.1021/acs.est.5c14619**
+
+---
+
 ## **Dataset Description**
 
 This dataset contains **hourly traffic volume and emission estimates at the road-link level across the Hong Kong road network**. Each record corresponds to a specific **road link** and a specific **hour**, allowing users to analyze both the **spatial distribution** and **temporal variation** of traffic activity and associated emissions.
@@ -94,21 +109,6 @@ This dataset can support research and practice in the following areas:
 - **Road-network-based spatial analysis**
 - **Vehicle-class contribution analysis**
 - **Data-driven transport policy evaluation**
-
----
-
-## **Access to the Full Dataset**
-
-Because the full data files are too large to store on GitHub, the complete dataset is hosted externally on Zenodo.
-
-### **Dataset Access Link**
-**https://zenodo.org/records/19127840**
-
-### **Related Publication**
-**Niu, C., Chen, Q., Wang, A., & Xu, J. (2026). _Disentangling Near-Road Emission Inequities in Hong Kong through Data-Driven Spatiotemporal Traffic Dynamics_. Environmental Science & Technology. https://doi.org/10.1021/acs.est.5c14619**
-
-### **Paper Access Link**
-**https://doi.org/10.1021/acs.est.5c14619**
 
 ---
 
