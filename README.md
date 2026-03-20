@@ -5,7 +5,7 @@
 
 This repository provides documentation and access information for a dataset of **hourly road link-level traffic volume and emission estimates for eight vehicle classes in Hong Kong**. The dataset is intended to support research on **traffic dynamics**, **vehicle emissions**, **near-road air pollution**, **spatiotemporal transport analysis**, and **environmental justice**.
 
-Because the full dataset is too large to host directly on GitHub, this repository serves as the **data portal** for the project. It includes the dataset description, access links, metadata, citation information, and related documentation.
+This repository serves as the **data portal** for the project. It includes the dataset description, access links, metadata, citation information, and related documentation.
 
 ---
 
